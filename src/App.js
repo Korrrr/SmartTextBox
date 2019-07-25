@@ -7,8 +7,6 @@ import SmartTextBox from './components/SmartTextBox.jsx';
 import data from './fakeJson/data';
 
 class App extends Component {
-
-
   render() {
     console.log('data', data);
 
