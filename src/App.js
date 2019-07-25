@@ -8,8 +8,6 @@ import data from './fakeJson/data';
 
 class App extends Component {
   render() {
-    console.log('data', data);
-
     return (
       <div className="App">
         <header className="App-header">
